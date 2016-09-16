@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LongestWordHomework\LongestWordHomework\bin\Debug\LongestWordHomework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LongestWordHomework\LongestWordHomework\obj\Debug\LongestWordHomework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LongestWordHomework\LongestWordHomework\bin\Debug\LongestWordHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LongestWordHomework\LongestWordHomework\bin\Debug\LongestWordHomework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LongestWordHomework\LongestWordHomework\obj\Debug\LongestWordHomework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\LongestWordHomework\LongestWordHomework\obj\Debug\LongestWordHomework.pdb
